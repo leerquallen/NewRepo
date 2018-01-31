@@ -17,7 +17,7 @@ void main()
 
 	system("pause");
 }
-//blablabla
+
 
 //bla bla lbal bal bal bablabla
 int NotMain(int num1, int num2)
@@ -42,4 +42,6 @@ int NotMain(int num1, int num2)
 		}
 	}
 	return sum;
+
+	//nnnnnnnnnnnnnnn
 }
